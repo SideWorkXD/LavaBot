@@ -9,11 +9,11 @@ const { queueNames } = require("./commands/play");
 
 function initializePlayer(client) {
   const nodes = [
-      {
-    host: "ll.sleepyinsomniac.eu.org",
-    port: 80, 
-    pass: "youshallnotpass", 
-     secure: false
+        {
+    host: "lavalink.gglvxd.eu.org",
+    port: 443, 
+    password: "https://dsc.gg/idiotspawnpoint", 
+     secure: true
   },
   ];
 
