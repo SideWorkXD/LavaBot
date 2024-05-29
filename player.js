@@ -10,9 +10,9 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
   const nodes = [
       {
-    host: 5.78.68.68,
-    port: 2002, 
-    pass: "jla3109Kas", 
+    host: "ll.sleepyinsomniac.eu.org",
+    port: 80, 
+    pass: "youshallnotpass", 
      secure: false
   },
   ];
