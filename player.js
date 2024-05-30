@@ -10,11 +10,10 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
   const nodes = [
                 {
-  "identifier": "Creavite US1 Lavalink",
-  "password": "auto.creavite.co",
-  "host": "us1.lavalink.creavite.co",
-  "port": 20080,
-  "secure": false
+ Host : "ether.lunarnodes.xyz"
+Port : 6969
+Password : "lunarnodes.xyz"
+Secure : false
 },
   ];
 
