@@ -10,11 +10,11 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
   const nodes = [
                 {
-   "identifier": "Akshtt - v4 Free",
-  "password": "admin",
-  "host": "lava.akshat.tech",
-  "port": 443,
-  "secure": true
+  "identifier": "Creavite US1 Lavalink",
+  "password": "auto.creavite.co",
+  "host": "us1.lavalink.creavite.co",
+  "port": 20080,
+  "secure": false
 },
   ];
 
