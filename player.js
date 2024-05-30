@@ -10,9 +10,10 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
   const nodes = [
                 {
-  "identifier": "Akshtt - Free",
+  "identifier": {
+  "identifier": "Akshtt - v4 Free",
   "password": "admin",
-  "host": "lavalink.akshtt.is-a.dev",
+  "host": "lava.akshat.tech",
   "port": 443,
   "secure": true
 },
