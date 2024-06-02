@@ -9,12 +9,12 @@ const { queueNames } = require("./commands/play");
 
 function initializePlayer(client) {
   const nodes = [
-                {
- host : "ether.lunarnodes.xyz",
-port : 6969,
-password : "lunarnodes.xyz",
-secure : false
-},
+                        {
+            host: "lava-v4.ajieblogs.eu.org",
+            password: "https://dsc.gg/ajidevserver",
+            port: 443,
+            secure: true
+        },
   ];
 
   client.riffy = new Riffy(client, nodes, {
